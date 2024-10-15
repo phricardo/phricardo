@@ -42,8 +42,8 @@ public class Profile extends Developer {
 <br>
 
 <div>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phricardorj&title_color=00ee64&text_color=fff&icon_color=fff&bg_color=181818" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=phricardorj&show_icons=true&title_color=00ee64&text_color=fff&icon_color=00ee64&bg_color=181818" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phricardo&title_color=00ee64&text_color=fff&icon_color=fff&bg_color=181818" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=phricardo&show_icons=true&title_color=00ee64&text_color=fff&icon_color=00ee64&bg_color=181818" />
 </div>
 
 <br>
