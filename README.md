@@ -6,7 +6,7 @@
 <br>
 
 <div style="display: flex">
-<img src = "https://komarev.com/ghpvc/?username=phricardo&label=Profile%20views&color=00ee64" alt="phricardorj"  style="float:right, margin-right:10px"/>
+<!-- <img src = "https://komarev.com/ghpvc/?username=phricardo&label=Profile%20views&color=00ee64" alt="phricardorj"  style="float:right, margin-right:10px"/> -->
 <img src="https://img.shields.io/github/followers/phricardo?label=Follow&color=00ee64" alt="phricardorj" style="float:left" />
 </div>
 
