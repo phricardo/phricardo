@@ -40,7 +40,7 @@ import lombok.NoArgsConstructor;
 @AllArgsConstructor
 @NoArgsConstructor
 public class Developer {
-    private String job;
+    private String employment;
     private String location;
 }
 
@@ -48,12 +48,10 @@ public class Developer {
 @NoArgsConstructor
 public class Profile extends Developer {
     private String name;
-    private String occupation;
-
+  
     public Profile() {
         super("Software Engineer at Luizalabs / Magalu", "Rio de Janeiro / RJ");
         this.name = "Pedro Ricardo";
-        this.occupation = "Software Engineer";
     }
 }
 ```
