@@ -50,7 +50,7 @@ public class Profile extends Developer {
     private String name;
   
     public Profile() {
-        super("Software Engineer at Luizalabs / Magalu", "Rio de Janeiro / RJ");
+        super("Software Engineer at PicPay / Fintech", "Rio de Janeiro / RJ");
         this.name = "Pedro Ricardo";
     }
 }
